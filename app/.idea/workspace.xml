@@ -1,0 +1,285 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:SE-IMDB" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+<<<<<<< HEAD
+    <list default="true" id="512b1a97-9043-43cf-ae2a-3dd534e048fb" name="Default Changelist" comment="Merge branch 'master' of https://dev.azure.com/zahraalizade2500153/IMDB/_git/IMDB&#10;&#10;# Conflicts:&#10;#&#9;application/view/forgot-password.html&#10;#&#9;application/view/login.html&#10;#&#9;application/view/main-page.html&#10;#&#9;application/view/register.html" />
+=======
+    <list default="true" id="512b1a97-9043-43cf-ae2a-3dd534e048fb" name="Default Changelist" comment="Merge branch 'master' of https://dev.azure.com/zahraalizade2500153/IMDB/_git/IMDB&#10;&#10;# Conflicts:&#10;#&#9;application/view/forgot-password.html&#10;#&#9;application/view/login.html&#10;#&#9;application/view/main-page.html&#10;#&#9;application/view/register.html">
+      <change afterPath="$PROJECT_DIR$/application/view/index_light.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/view/moviegridfw_light.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/application/controller/Movie.php" beforeDir="false" afterPath="$PROJECT_DIR$/application/controller/Movie.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/application/view/Layouts/header.php" beforeDir="false" afterPath="$PROJECT_DIR$/application/view/Layouts/header.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/application/view/moviesingle_light.php" beforeDir="false" afterPath="$PROJECT_DIR$/application/view/moviesingle_light.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/public/css/style.css" afterDir="false" />
+    </list>
+>>>>>>> 093e96d07e2f636c2704827e64760d67205a7d6d
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1bROg9QLmgIOxFHVA7ZplRre91A" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/application/view" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\WampServer\www\IMDB\public\image\login" />
+      <recent name="D:\WampServer\www\IMDB\public\css" />
+      <recent name="D:\WampServer\www\IMDB\public\bootstrap\css" />
+      <recent name="D:\WampServer\www\IMDB\application\view" />
+      <recent name="D:\WampServer\www\IMDB\application\controller" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\WampServer\www\IMDB\application\view" />
+      <recent name="D:\WampServer\www\IMDB\system\router" />
+      <recent name="D:\WampServer\www\IMDB\application\view\t" />
+      <recent name="D:\WampServer\www\IMDB\public\css" />
+      <recent name="D:\WampServer\www\IMDB\application\view\Layout" />
+    </key>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="512b1a97-9043-43cf-ae2a-3dd534e048fb" name="Default Changelist" comment="" />
+      <created>1588591547868</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1588591547868</updated>
+      <workItem from="1588591549930" duration="3615000" />
+      <workItem from="1588613089217" duration="1018000" />
+      <workItem from="1589223806231" duration="679000" />
+      <workItem from="1590560032872" duration="231000" />
+      <workItem from="1590560873366" duration="50000" />
+      <workItem from="1590560970259" duration="2720000" />
+      <workItem from="1590575672108" duration="11612000" />
+      <workItem from="1590656852305" duration="2456000" />
+      <workItem from="1590763203262" duration="1196000" />
+      <workItem from="1590764449256" duration="404000" />
+      <workItem from="1590846074404" duration="2336000" />
+      <workItem from="1590855310323" duration="2077000" />
+      <workItem from="1590940520003" duration="1262000" />
+      <workItem from="1591458928016" duration="240000" />
+      <workItem from="1591796038119" duration="665000" />
+      <workItem from="1591804213811" duration="14552000" />
+      <workItem from="1591820644301" duration="1855000" />
+      <workItem from="1591852799760" duration="3604000" />
+      <workItem from="1591948939551" duration="7867000" />
+      <workItem from="1591982915231" duration="11814000" />
+      <workItem from="1592055856846" duration="2469000" />
+      <workItem from="1592073870950" duration="4602000" />
+      <workItem from="1592120190477" duration="5227000" />
+      <workItem from="1592156044565" duration="7499000" />
+      <workItem from="1592283617173" duration="5590000" />
+      <workItem from="1592294454260" duration="3379000" />
+      <workItem from="1592311715831" duration="75000" />
+      <workItem from="1592331894694" duration="5128000" />
+      <workItem from="1592487016307" duration="1330000" />
+      <workItem from="1592636034530" duration="727000" />
+      <workItem from="1592643136128" duration="4069000" />
+      <workItem from="1592723284916" duration="3448000" />
+      <workItem from="1592972885562" duration="5951000" />
+      <workItem from="1592983754839" duration="11915000" />
+      <workItem from="1593054941023" duration="3149000" />
+      <workItem from="1593251372675" duration="944000" />
+      <workItem from="1593253707717" duration="1778000" />
+      <workItem from="1593255527513" duration="779000" />
+      <workItem from="1593262644457" duration="1789000" />
+      <workItem from="1593264458456" duration="2365000" />
+      <workItem from="1593267616007" duration="48000" />
+      <workItem from="1593282706446" duration="58000" />
+      <workItem from="1593282785890" duration="7887000" />
+      <workItem from="1593324706134" duration="74000" />
+      <workItem from="1593331429511" duration="4495000" />
+      <workItem from="1593351188737" duration="2182000" />
+      <workItem from="1593367129165" duration="5778000" />
+      <workItem from="1593416387910" duration="3599000" />
+      <workItem from="1593431783915" duration="5505000" />
+      <workItem from="1593514222624" duration="4208000" />
+      <workItem from="1593585538999" duration="8008000" />
+      <workItem from="1593605271583" duration="2374000" />
+      <workItem from="1593629491413" duration="2945000" />
+      <workItem from="1593699414233" duration="5337000" />
+      <workItem from="1593704911294" duration="97000" />
+      <workItem from="1593853383825" duration="1750000" />
+      <workItem from="1593872456717" duration="659000" />
+      <workItem from="1593929954473" duration="302000" />
+      <workItem from="1594038539004" duration="1004000" />
+      <workItem from="1594112355374" duration="2837000" />
+      <workItem from="1594187105221" duration="1829000" />
+      <workItem from="1594477899864" duration="3204000" />
+      <workItem from="1594738264536" duration="6466000" />
+      <workItem from="1595080869700" duration="4075000" />
+      <workItem from="1595097303524" duration="5563000" />
+      <workItem from="1595255488647" duration="8998000" />
+      <workItem from="1595338229494" duration="2230000" />
+      <workItem from="1595427754451" duration="15042000" />
+      <workItem from="1595486564976" duration="1874000" />
+    </task>
+    <task id="LOCAL-00001" summary="test">
+      <created>1588592486556</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1588592486556</updated>
+    </task>
+    <task id="LOCAL-00002" summary="test2">
+      <created>1588592688926</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1588592688926</updated>
+    </task>
+    <task id="LOCAL-00003" summary="create folders">
+      <created>1588594757109</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1588594757109</updated>
+    </task>
+    <task id="LOCAL-00004" summary="create test.txt">
+      <created>1588594926682</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1588594926682</updated>
+    </task>
+    <task id="LOCAL-00005" summary="create controller">
+      <created>1588613135641</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1588613135641</updated>
+    </task>
+    <task id="LOCAL-00006" summary="edit controller.php">
+      <created>1588613512191</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1588613512191</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="test" />
+    <MESSAGE value="test2" />
+    <MESSAGE value="create folders" />
+    <MESSAGE value="create test.txt" />
+    <MESSAGE value="create controller" />
+    <MESSAGE value="edit controller.php" />
+    <MESSAGE value="Merge branch 'master' of https://dev.azure.com/zahraalizade2500153/IMDB/_git/IMDB&#10;&#10;# Conflicts:&#10;#&#9;application/view/forgot-password.html&#10;#&#9;application/view/login.html&#10;#&#9;application/view/main-page.html&#10;#&#9;application/view/register.html" />
+    <option name="LAST_COMMIT_MESSAGE" value="Merge branch 'master' of https://dev.azure.com/zahraalizade2500153/IMDB/_git/IMDB&#10;&#10;# Conflicts:&#10;#&#9;application/view/forgot-password.html&#10;#&#9;application/view/login.html&#10;#&#9;application/view/main-page.html&#10;#&#9;application/view/register.html" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="687" y="265" key="#Notifications" timestamp="1590560145893">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="687" y="265" key="#Notifications/0.0.1600.860@0.0.1600.860" timestamp="1590560145893" />
+    <state x="362" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1593930036913">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="362" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1600.860@0.0.1600.860" timestamp="1593930036913" />
+    <state x="530" y="175" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1593435491544">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="530" y="175" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1600.860@0.0.1600.860" timestamp="1593435491544" />
+    <state x="930" y="183" key="#com.jetbrains.php.actions.copyPaste.importReferences.PhpImportReferencesDialog" timestamp="1595451257610">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="930" y="183" key="#com.jetbrains.php.actions.copyPaste.importReferences.PhpImportReferencesDialog/0.0.1600.860@0.0.1600.860" timestamp="1595451257610" />
+    <state x="423" y="0" key="CommitChangelistDialog2" timestamp="1588613511034">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="423" y="0" key="CommitChangelistDialog2/0.0.1600.860@0.0.1600.860" timestamp="1588613511034" />
+    <state x="580" y="183" key="FileChooserDialogImpl" timestamp="1595256746430">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="580" y="183" key="FileChooserDialogImpl/0.0.1600.860@0.0.1600.860" timestamp="1595256746430" />
+    <state x="605" y="135" key="NewPhpClassDialog" timestamp="1593872673462">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="605" y="135" key="NewPhpClassDialog/0.0.1600.860@0.0.1600.860" timestamp="1593872673462" />
+    <state x="635" y="348" key="NewPhpFileDialog" timestamp="1593872847840">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="635" y="348" key="NewPhpFileDialog/0.0.1600.860@0.0.1600.860" timestamp="1593872847840" />
+    <state x="301" y="60" width="930" height="739" key="SettingsEditor" timestamp="1593282856220">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="301" y="60" width="930" height="739" key="SettingsEditor/0.0.1600.860@0.0.1600.860" timestamp="1593282856220" />
+    <state x="607" y="338" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1590859693961">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="607" y="338" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1600.860@0.0.1600.860" timestamp="1590859693961" />
+<<<<<<< HEAD
+    <state x="56" y="190" key="run.anything.popup" timestamp="1595512363693">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="56" y="190" key="run.anything.popup/0.0.1600.860@0.0.1600.860" timestamp="1595512363693" />
+=======
+    <state x="56" y="190" key="run.anything.popup" timestamp="1593372739118">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="56" y="190" key="run.anything.popup/0.0.1600.860@0.0.1600.860" timestamp="1593372739118" />
+>>>>>>> 093e96d07e2f636c2704827e64760d67205a7d6d
+  </component>
+</project>
